@@ -1,11 +1,9 @@
-![Web Developer](https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/coding-vs-programming-2.jpg)
-
 <h1 align="center">Hi 👋, I'm Atikur Hasan Ovi</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atikurhasan&label=Profile%20views&color=0e75b6&style=flat" alt="atikurhasan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atikur-hasan-ovi&label=Profile%20views&color=0e75b6&style=flat" alt="atikur-hasan-ovi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atikurhasan" alt="atikurhasan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atikur-hasan-ovi" alt="atikur-hasan-ovi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@atikovi1029" target="blank"><img src="https://img.shields.io/twitter/follow/@atikovi1029?logo=twitter&style=for-the-badge" alt="@atikovi1029" /></a> </p>
 
@@ -22,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@atikovi1029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@atikovi1029" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/atikurhasanovi13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/atikurhasanovi13/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/atikurhasanovi13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/atikurhasanovi13" height="30" width="40" /></a>
 <a href="https://instagram.com/@atikurhasanovi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@atikurhasanovi" height="30" width="40" /></a>
 <a href="https://discord.gg/atikurhasanovi#4573" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="atikurhasanovi#4573" height="30" width="40" /></a>
 </p>
@@ -33,8 +31,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/@atikurhasanovi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@atikurhasanovi" /></a><a href="https://ko-fi.com/@atikurhasanovi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="@atikurhasanovi" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atikurhasan&show_icons=true&locale=en&layout=compact" alt="atikurhasan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atikur-hasan-ovi&show_icons=true&locale=en&layout=compact" alt="atikur-hasan-ovi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atikurhasan&show_icons=true&locale=en" alt="atikurhasan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atikur-hasan-ovi&show_icons=true&locale=en" alt="atikur-hasan-ovi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atikurhasan&" alt="atikurhasan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atikur-hasan-ovi&" alt="atikur-hasan-ovi" /></p>
